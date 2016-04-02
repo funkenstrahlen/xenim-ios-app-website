@@ -15,6 +15,9 @@ appstore_white: <a href="https://itunes.apple.com/app/id123456789" class="app-st
 screenshots:
 - screenshot01
 - screenshot02
+- screenshot03
+- screenshot04
+- screenshot05
 
 # Company Info
 company: Stefan Trauth

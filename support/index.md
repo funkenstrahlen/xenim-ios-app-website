@@ -4,5 +4,7 @@ title: App Name - Support
 ---
 ### Support
 
-#### My question wasn't answered. Help!
-Just [email us](mailto:{{ site.email_support }}) and we'll get you taken care of!
+Hier entsteht eine FAQ.
+
+#### Meine Frage wurde nicht beantwortet. Hilfe!
+[Schreibe eine Mail](mailto:{{ site.email_support }}) und wir finden eine Lösung.
