@@ -9,11 +9,9 @@ js:
 
 Höre alle Podcast Livestreams des Xenim Streaming Netzwerks ganz bequem auf deinem Smartphone.
 
-* **Kalender** mit allen Livestreams
-* Podcasts als Favorit markieren
-* Kalender nach **Favoriten** filtern
-* **Push Notifications** sobald ein Lieblingspodcast einen Livestream startet
-* **Metadaten** zu allen Podcasts
+Durchsuche den **Kalender** mit allen Livestreams und höre deine Lieblingspodcasts live! Markiere Podcasts als **Favoriten** und erhalte **Push Notifications** sobald ein Livestream beginnt.
+
+**Filtere** den Kalender nach Favoriten und informiere dich über alle Podcasts. Gefällt dir ein Podcast gut, kannst du ihn direkt in deinem Podcastclient **abonnieren**.
 
 Die App ist kostenlos. Wenn du magst, kannst du mir in der App einen Kaffee spendieren und so die Entwicklung unterstützen.
 
