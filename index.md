@@ -7,7 +7,7 @@ js:
 - /assets/home.js
 ---
 
-Höre alle Podcast Livestreams des Xenim Streaming Netzwerks ganz bequem auf deinem Smartphone.
+Höre alle Podcast Livestreams des Xenim Streaming Netzwerks ganz bequem auf deinem iPhone.
 
 Durchsuche den **Kalender** mit allen Livestreams und höre deine Lieblingspodcasts live! Markiere Podcasts als **Favoriten** und erhalte **Push Notifications** sobald ein Livestream beginnt.
 
