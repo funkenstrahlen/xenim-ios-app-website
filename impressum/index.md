@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Xenim - Impressum
+js: 
+- /assets/meltmail.js
 ---
 
 ### Angaben gemäß § 5 TMG:
@@ -49,19 +51,3 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
 ### Auskunft, Löschung, Sperrung
 
 Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit über die im Impressum angegeben Adresse des Webseitenbetreibers an uns wenden.
-
-
-
-
-<script type="text/javascript">
-//<![CDATA[
-var xhttp = new XMLHttpRequest();
-xhttp.onreadystatechange = function() {
-if (xhttp.readyState == 4 && xhttp.status == 200) {
-  document.getElementById("meltmail").innerHTML = "<a href=\"mailto:" + xhttp.responseText + "\">" + xhttp.responseText + "</a>";
-}
-};
-xhttp.open("GET", "/meltmail", true);
-xhttp.send();
-//]]>
-</script>
