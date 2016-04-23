@@ -13,11 +13,12 @@ appstore_white: <a href="https://itunes.apple.com/app/id123456789" class="app-st
 
 # Screenshots
 screenshots:
-- screenshot01
-- screenshot02
-- screenshot03
-- screenshot04
-- screenshot05
+- iPhone5s-01Events
+- iPhone5s-02PodcastDetail
+- iPhone5s-03Player
+- iPhone5s-04Favorites
+- iPhone5s-05AddFavorites
+- iPhone5s-06Settings
 
 # Company Info
 company: Stefan Trauth
